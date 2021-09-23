@@ -9,12 +9,17 @@ contributor:
     agent_name: Crivell, Francisco
     gutenberg_agent_id: '53755'
     url: http://www.gutenberg.org/2009/agents/53755
+covers:
+- cover_type: archival
+  image_path: 66340-h/images/cover.jpg
 creator:
   author:
     agent_name: Nasón, Publio Ovidio
     gutenberg_agent_id: '53754'
     url: http://www.gutenberg.org/2009/agents/53754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66340#Metamorfoseos-o-Transformaciones-4-de-4
 gutenberg_issued: '2021-09-18'
 identifiers:
   gutenberg: '66340'
